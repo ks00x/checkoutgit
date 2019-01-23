@@ -1,7 +1,7 @@
 * test
-# this is a header level 1
+# this is a header level 1 
 ## this is a header level 2
-### this is a header level 3
+### this is a header level 3 
 #### this is a header level 4
 
 *italic* text   
@@ -40,3 +40,12 @@ print s
 Are there are comments in Markdown???
 
 Add a new line
+***
+***
+**the is the end my friend**
+
+
+
+API 
+
+
